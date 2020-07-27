@@ -187,9 +187,9 @@ meta:
   title: # 暂无配置
   # 默认文章作者（可在front-matter中覆盖）
   author:
-    avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
-    name: Mr. X
-    url: https://xaoxuu.com
+    avatar: https://cdn.jsdelivr.net/gh/askeynil/cdn-assets/icon/avatar.png
+    name: AskeyNil
+    url: https://www.askeynil.com
   # 文章创建日期
   date:
     icon: fas fa-calendar-alt
