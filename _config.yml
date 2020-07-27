@@ -96,16 +96,16 @@ style:
 
 ############################### Layout ###############################
 cover:
-  scheme: docs # docs, blog
-  layout: featured # search (搜索), dock (坞), featured (精选), focus (焦点)
+  scheme: blog # docs, blog
+  layout: focus # search (搜索), dock (坞), featured (精选), focus (焦点)
   display:
     home: true
     archive: true
     others: false # can be written in front-matter 'cover: true'
-  logo: https://i.loli.net/2020/07/22/2OYbPxZjhdFce3L.png
-  title: ''
-  subtitle: ''
-  search: A Wonderful Theme for Hexo # search bar placeholder
+  logo: 
+  title: 'AskeyNil'
+  subtitle: '</br>所有美的事物，都值得慢慢思量，一生珍赏'
+  search:  # search bar placeholder
   features:
     - name: 文档
       icon: fas fa-book
