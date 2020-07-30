@@ -522,9 +522,9 @@ plugins:
   # 配置过程请参考：https://artitalk.js.org/doc.html
   # 除appID和appKEY外均为选填项
   Artitalk:
-    enable: false # true为开启，false为关闭
-    appID: ogP8qj3veMh0LFpFWMPOyF0X-MdYXbMMI # your appID
-    appKEY: nHXLd3N3Jgh460t2iRQKWAtr # your appKEY
+    enable: true # true为开启，false为关闭
+    appID: G3vMicK3PrQfePgeWs7xxp4D-MdYXbMMI # your appID
+    appKEY: Fz8lX18YNFukEKcRPeQlDMqc # your appKEY
     # severurl:  #leancloud绑定的安全域名，使用国际版的话不需要填写
     # slanguage: # 语言设置，zh为汉语，en为英语，es为西班牙语。默认为汉语
     # per: #每页说说的显示数量
