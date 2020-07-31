@@ -411,12 +411,12 @@ footer:
     - icon: fas fa-rss
       url: atom.xml
     - icon: fas fa-envelope
-      url: mailto:me@xxx.com
+      url: mailto:askeynil@gmail.com
     - icon: fab fa-github
-      url: https://github.com/xaoxuu
-    - icon: fas fa-headphones-alt
-      url: https://music.163.com/#/user/home?id=63035382
-  copyright: '[Copyright © 2017-2020 XXX](/)'
+      url: https://github.com/askeynil
+    # - icon: fas fa-headphones-alt
+    #   url: https://music.163.com/#/user/home?id=63035382
+  copyright: '[Copyright © 2017-2020 AskeyNil](/)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '<br>'
 
