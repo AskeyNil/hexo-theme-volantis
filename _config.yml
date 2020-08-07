@@ -672,7 +672,7 @@ comments:
 rightmenu:
   enable: true
   # hr: 分割线, navigation: 导航按钮, music-ctrl: 音乐控制器
-  layout: [home, archive, categories, tags, hr, note, talk, sign, hr, print]
+  layout: [home, archive, categories, tags, hr, note, talk, sign, hr, time, hr, print]
   # 可选功能项
   print:
     name: 打印页面
@@ -703,6 +703,10 @@ rightmenu:
     name: 日签
     icon: fas fa-hourglass-half 
     url: /day-sign
+  time:
+    name: 时间轴
+    icon: fa fa-history
+    url: /timeline
 
 ############################### Search ###############################
 # To use hexo search, you need to install the following plugins:
