@@ -533,14 +533,14 @@ plugins:
     appKEY: Fz8lX18YNFukEKcRPeQlDMqc # your appKEY
     # severurl:  #leancloud绑定的安全域名，使用国际版的话不需要填写
     # slanguage: # 语言设置，zh为汉语，en为英语，es为西班牙语。默认为汉语
-    # per: #每页说说的显示数量
+    per: 10 #每页说说的显示数量
     # placeholder1: #在编辑说说的输入框中的占位符
     # placeholder2: #自定义头像url的输入框的占位符
     # lazy: #加载动画的开关，1为开，0为关，默认为开
     # bgimg: #说说输入框背景图片url
-    # color1: #说说背景颜色1&按钮颜色1
-    # color2: #说说背景颜色2&按钮颜色2
-    # color3: #说说字体颜色
+    color1: "linear-gradient(90deg,rgba(247,149,51,.1) 0,rgba(243,112,85,.1) 15%,rgba(239,78,123,.1) 30%,rgba(161,102,171,.1) 44%,rgba(80,115,184,.1) 58%,rgba(16,152,173,.1) 72%,rgba(7,179,155,.1) 86%,rgba(109,186,130,.1) 100%)" #说说背景颜色1&按钮颜色1
+    color2: "linear-gradient(90deg,rgba(247,149,51,.1) 0,rgba(243,112,85,.1) 15%,rgba(239,78,123,.1) 30%,rgba(161,102,171,.1) 44%,rgba(80,115,184,.1) 58%,rgba(16,152,173,.1) 72%,rgba(7,179,155,.1) 86%,rgba(109,186,130,.1) 100%)" #说说背景颜色2&按钮颜色2
+    color3: "#5E5E5E" #说说字体颜色
   ##################################
   # 暗黑模式 darkmodejs
   # https://darkmodejs.learn.uno
