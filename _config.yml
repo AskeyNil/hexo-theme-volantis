@@ -104,14 +104,14 @@ style:
 
 ############################### Layout ###############################
 cover:
-  scheme: blog # docs, blog
-  layout: featured # search (搜索), dock (坞), featured (精选), focus (焦点)
+  scheme: docs # docs, blog
+  layout: dock # search (搜索), dock (坞), featured (精选), focus (焦点)
   display:
     home: true
     archive: true
     others: true # can be written in front-matter 'cover: true'
   logo: 
-  title: 'AskeyNil'
+  title: "AskeyNil's Blog"
   subtitle: '</br>所有美的事物，都值得慢慢思量，一生珍赏'
   search:  # search bar placeholder
   features:
@@ -124,6 +124,9 @@ cover:
     - name: 友链
       icon: fas fa-link
       url: /friends
+    - name: 闲谈
+      icon: fas fa-comment-dots
+      url: /talk
     - name: 关于
       icon: fas fa-handshake
       url: /about
