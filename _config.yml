@@ -33,7 +33,7 @@ style:
       h2: left
       h3: left
       h4: left
-      p: justify
+      p: left
     note: # style for default note: {% note text %}
       icon: '\f054'
       color: ''
@@ -121,12 +121,12 @@ cover:
     - name: 归档
       icon: fas fa-archive
       url: /archives
-    - name: 友链
-      icon: fas fa-link
-      url: /friends
     - name: 闲谈
       icon: fas fa-comment-dots
       url: /talk
+    - name: 站史
+      icon: fa fa-history
+      url: /timeline
     - name: 关于
       icon: fas fa-handshake
       url: /about
@@ -704,7 +704,7 @@ rightmenu:
     icon: fas fa-hourglass-half 
     url: /day-sign
   time:
-    name: 时间轴
+    name: 站史
     icon: fa fa-history
     url: /timeline
 
